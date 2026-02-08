@@ -1,0 +1,3 @@
+[submodule "mgr/labstack-mgr-web"]
+	path = mgr/labstack-mgr-web
+	url = https://github.com/ketanbaitule/labstack-mgr
