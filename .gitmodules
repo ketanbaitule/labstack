@@ -1,3 +1,6 @@
 [submodule "mgr/labstack-mgr-web"]
 	path = mgr/labstack-mgr-web
 	url = https://github.com/ketanbaitule/labstack-mgr
+[submodule "vmd/labstack-vmd"]
+	path = vmd/labstack-vmd
+	url = https://github.com/ketanbaitule/labstack-vmd
